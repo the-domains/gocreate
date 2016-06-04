@@ -1,0 +1,14 @@
+layout_spectrum: 0.624339624773711
+typography_spectrum: 0.7658094186335802
+color:
+  brandStrength: 0.6919089255388826
+  lightness: 0.06908473465591669
+  saturation: 0.6403379063121974
+  rhythmicContrast: 0.2605530696455389
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: GoCreate
