@@ -1,14 +1,26 @@
-layout_spectrum: 0.624339624773711
-typography_spectrum: 0.7658094186335802
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1827957
 color:
+  saturation: 0.8835126
   brandStrength: 0.6919089255388826
-  lightness: 0.06908473465591669
-  saturation: 0.6403379063121974
-  rhythmicContrast: 0.2605530696455389
+  lightness: 0.59319
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.9480287
+layout_spectrum: 1
 name: GoCreate
