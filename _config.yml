@@ -24,3 +24,7 @@ color:
   rhythmicContrast: 0.9480287
 layout_spectrum: 1
 name: GoCreate
+navigation:
+  - name: Hier is de zon!
+    id: 6125771f-33f7-492a-8d1f-b0102877079b
+    type: content
