@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.1827957
 color:
   saturation: 0.8835126
@@ -23,8 +11,28 @@ color:
     - '#2980B9'
   rhythmicContrast: 0.9480287
 layout_spectrum: 1
+author:
+  name: Dietrich De Bruyne
+  email: dietrich@gocreate.be
+  url: 'http://www.gocreate.be'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a5a02b-1713-4fd4-9a7d-dd93fb51987b.jpg
 name: GoCreate
 navigation:
   - name: Hier is de zon!
     id: 6125771f-33f7-492a-8d1f-b0102877079b
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f07fa0-7b05-4267-ae51-d8ac22ed8707.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
